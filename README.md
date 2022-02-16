@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/felipe-barreto-76503a97/">
     <img src="images/curso.png" alt="Logo" width="160" height="50">
   </a>
-  <a href="https://www.linkedin.com/in/karenchizonf/">
+  <a href="https://www.linkedin.com/in/felipe-barreto-76503a97/">
     <img src="images/teacher.png" alt="Logo" width="160" height="50">
   </a>
 </div>
